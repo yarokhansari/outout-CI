@@ -1,0 +1,36 @@
+ERROR - 2021-05-06 05:36:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-06 09:55:06 --> 404 Page Not Found: Dede/login.php
+ERROR - 2021-05-06 10:36:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-06 11:19:53 --> 404 Page Not Found: Th1s_1s_a_4o4html/index
+ERROR - 2021-05-06 11:20:04 --> 404 Page Not Found: Forms/notify.php
+ERROR - 2021-05-06 11:20:04 --> 404 Page Not Found: Assets/vendor
+ERROR - 2021-05-06 11:20:04 --> 404 Page Not Found: Assets/js
+ERROR - 2021-05-06 11:20:05 --> 404 Page Not Found: Assets/css
+ERROR - 2021-05-06 11:20:05 --> 404 Page Not Found: Assets/vendor
+ERROR - 2021-05-06 11:20:06 --> 404 Page Not Found: Assets/vendor
+ERROR - 2021-05-06 11:20:06 --> 404 Page Not Found: Assets/vendor
+ERROR - 2021-05-06 11:20:06 --> 404 Page Not Found: Forms/notify.php
+ERROR - 2021-05-06 13:19:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-06 13:40:25 --> 404 Page Not Found: Assets/css
+ERROR - 2021-05-06 13:40:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-06 14:42:42 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-06 14:55:27 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-06 15:40:46 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-06 16:12:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-06 16:49:58 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2021-05-06 17:09:43 --> Severity: error --> Exception: syntax error, unexpected '=>' (T_DOUBLE_ARROW) /home/outoutap/public_html/application/controllers/API/Register.php 57
+ERROR - 2021-05-06 17:10:06 --> Severity: error --> Exception: syntax error, unexpected '=>' (T_DOUBLE_ARROW) /home/outoutap/public_html/application/controllers/API/Register.php 57
+ERROR - 2021-05-06 17:11:19 --> Severity: error --> Exception: syntax error, unexpected '=>' (T_DOUBLE_ARROW) /home/outoutap/public_html/application/controllers/API/Register.php 57
+ERROR - 2021-05-06 17:12:05 --> Severity: error --> Exception: syntax error, unexpected '=>' (T_DOUBLE_ARROW) /home/outoutap/public_html/application/controllers/API/Register.php 57
+ERROR - 2021-05-06 17:34:52 --> Query error: Unknown column 'is_vip' in 'field list' - Invalid query: INSERT INTO `hoo_users` (`first_name`, `last_name`, `dob`, `email`, `gender`, `phone_number`, `username`, `password`, `is_business`, `is_vip`, `latitude`, `longitude`, `city`, `profile_image`, `terms_and_conditions`, `created_at`) VALUES ('ehrhrjjr', 'dndnfnn', '2021-06-05', 'dndndjdj@gmail.com', '1', '5956566565', 'bebebbbeb', '$2y$10$bnxbW7FvqVbwWWG6QHlIWOk2ntvHgrA68VoRSZNSWZ3nZNFa/0OeS', '1', '1', '29.94', '-95.35', 'sbbsb', 'https://outout.app/uploads/users/60941aac06ba0.jpg', '1', '2021-05-06 05:34:52')
+ERROR - 2021-05-06 17:37:57 --> Query error: Unknown column 'is_vip' in 'field list' - Invalid query: INSERT INTO `hoo_users` (`first_name`, `last_name`, `dob`, `email`, `gender`, `phone_number`, `username`, `password`, `is_business`, `is_vip`, `latitude`, `longitude`, `city`, `profile_image`, `terms_and_conditions`, `created_at`) VALUES ('Jimmy', 'Watkins', '1969-08-10', 'jimmy@mailinator.comasda', '1', '9372658025', 'jimmy', '$2y$10$/yyeNYubB0OOXy865Un4I.4gQuk.rgFngRwKZEifU1GGasoFa8Ntm', '0', '0', '29.94', '-95.35', 'Houston', 'https://outout.app/uploads/users/60941b651e35a.jpg', '1', '2021-05-06 05:37:57')
+ERROR - 2021-05-06 19:30:41 --> 404 Page Not Found: Confirm/index
+ERROR - 2021-05-06 19:30:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-06 19:30:48 --> 404 Page Not Found: Confirm/index
+ERROR - 2021-05-06 19:30:51 --> 404 Page Not Found: Confirm/index
+ERROR - 2021-05-06 19:30:54 --> 404 Page Not Found: Confirm/index
+ERROR - 2021-05-06 21:09:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-06 22:00:41 --> 404 Page Not Found: Confirm/index
+ERROR - 2021-05-06 22:00:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-06 22:04:38 --> 404 Page Not Found: Confirm/index
+ERROR - 2021-05-06 22:05:24 --> 404 Page Not Found: Confirm/index

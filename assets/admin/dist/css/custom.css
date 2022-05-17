@@ -1,0 +1,14 @@
+.error {
+    color: red;
+}
+
+.brand-link .brand-image{
+    max-height: none;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+
+}
+.dataTables_empty{
+    text-align: center;
+}

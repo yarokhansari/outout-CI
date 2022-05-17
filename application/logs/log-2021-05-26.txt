@@ -1,0 +1,55 @@
+ERROR - 2021-05-26 00:26:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-26 00:37:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-26 00:37:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-26 00:37:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-26 00:37:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-26 01:07:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-26 01:07:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-26 02:22:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-26 02:44:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-26 04:48:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-26 05:10:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-26 05:10:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-26 05:10:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-26 05:10:51 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-26 08:34:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-26 09:12:14 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-26 11:04:48 --> 404 Page Not Found: Th1s_1s_a_4o4html/index
+ERROR - 2021-05-26 11:36:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-26 11:37:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-26 11:37:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-26 12:13:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-26 12:13:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-26 12:13:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-26 12:13:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-26 12:19:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-26 15:30:27 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 7 - Invalid query: SELECT `t4`.`id` as `user_id`, concat(t4.first_name, ' ', t4.last_name) as full_name, `t4`.`dob`, `t4`.`gender`, `t4`.`phone_number`, `t4`.`email`, `t4`.`username`, `t4`.`city`, `t4`.`profile_image`, `t4`.`account_type`, `t4`.`is_vip`, (
+        SELECT is_follow FROM hoo_friend_request 
+        WHERE is_delete = '0' AND status = '1' AND ((from_user_id = '69' AND to_user_id = t4.id)
+        OR (from_user_id = t4.id AND to_user_id = '69'))
+        ) AS is_follow
+FROM `hoo_users` as `t4`
+WHERE `t4`.`id` IN ()
+ERROR - 2021-05-26 15:30:39 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 7 - Invalid query: SELECT `t4`.`id` as `user_id`, concat(t4.first_name, ' ', t4.last_name) as full_name, `t4`.`dob`, `t4`.`gender`, `t4`.`phone_number`, `t4`.`email`, `t4`.`username`, `t4`.`city`, `t4`.`profile_image`, `t4`.`account_type`, `t4`.`is_vip`, (
+        SELECT is_follow FROM hoo_friend_request 
+        WHERE is_delete = '0' AND status = '1' AND ((from_user_id = '69' AND to_user_id = t4.id)
+        OR (from_user_id = t4.id AND to_user_id = '69'))
+        ) AS is_follow
+FROM `hoo_users` as `t4`
+WHERE `t4`.`id` IN ()
+ERROR - 2021-05-26 16:42:35 --> Query error: Table 'outoutap_hoo.hoo_likes' doesn't exist - Invalid query: SELECT *
+FROM `hoo_likes`
+WHERE `user_id` = '5'
+AND `media_id` = '4'
+ERROR - 2021-05-26 16:43:48 --> Severity: error --> Exception: Call to undefined method LikePost::updateLikesCount() /home/outoutap/public_html/application/controllers/API/LikePost.php 47
+ERROR - 2021-05-26 16:46:46 --> Severity: error --> Exception: Call to undefined method LikePost::updateLikesCount() /home/outoutap/public_html/application/controllers/API/LikePost.php 46
+ERROR - 2021-05-26 16:47:54 --> Severity: error --> Exception: Call to undefined method LikePost::updateLikesCount() /home/outoutap/public_html/application/controllers/API/LikePost.php 46
+ERROR - 2021-05-26 16:48:22 --> Severity: error --> Exception: Call to undefined method LikePost::updateLikesCount() /home/outoutap/public_html/application/controllers/API/LikePost.php 46
+ERROR - 2021-05-26 16:51:54 --> Severity: error --> Exception: Call to undefined method LikePost::updateLikesCount() /home/outoutap/public_html/application/controllers/API/LikePost.php 46
+ERROR - 2021-05-26 16:52:14 --> Severity: error --> Exception: Call to undefined method LikePost::updateLikesCount() /home/outoutap/public_html/application/controllers/API/LikePost.php 46
+ERROR - 2021-05-26 16:53:39 --> Severity: error --> Exception: Call to undefined method LikePost::updateLikesCount() /home/outoutap/public_html/application/controllers/API/LikePost.php 46
+ERROR - 2021-05-26 16:54:15 --> Severity: error --> Exception: Call to undefined method LikePost::updateLikesCount() /home/outoutap/public_html/application/controllers/API/LikePost.php 46
+ERROR - 2021-05-26 16:55:39 --> Severity: error --> Exception: Call to undefined method LikePost::updateLikesCount() /home/outoutap/public_html/application/controllers/API/LikePost.php 46
+ERROR - 2021-05-26 16:56:48 --> Severity: error --> Exception: Call to undefined method LikePost::updateLikesCount() /home/outoutap/public_html/application/controllers/API/LikePost.php 46
+ERROR - 2021-05-26 16:58:42 --> Severity: error --> Exception: Call to undefined method LikePost::updateLikesCount() /home/outoutap/public_html/application/controllers/API/LikePost.php 46
+ERROR - 2021-05-26 16:59:37 --> Severity: error --> Exception: Call to undefined method LikePost::updateLikesCount() /home/outoutap/public_html/application/controllers/API/LikePost.php 46

@@ -1,0 +1,406 @@
+
+body { padding-bottom: 35px; }
+a { text-decoration: none; transition: all 0.2s linear; color: #000; }
+a:hover { text-decoration: none; color: rgba(0,0,0,0.5) }
+
+.navbar {
+	z-index: 999;
+	position: relative;
+	background-color: #2A2B2B!important;
+	padding: 5px 0;
+}
+
+.navbar>.container, .navbar>.container-fluid {
+	display: block;
+}
+
+.bl-war {
+    color: #9184b7;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bl-war-customer {
+    color: #9184b7;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.sub-title { 
+    font-size:20px;
+}
+
+.navbar-brand img {
+	max-width: 130px;
+}
+
+.demo-txt h1{
+	color: #fff;
+}
+
+.menubar {
+	width: 32px;
+}
+
+.demo-txt a {
+	color: #9184b7;
+}
+
+.demo-txt a:hover {
+	color: #9184b7;
+}
+
+.navbar-dark .navbar-brand {
+	margin: 0;
+	padding: 0;
+}
+
+.header-text-marquee {
+	vertical-align: top;
+	font-weight: bold;
+}
+.header-text-marquee marquee {
+	vertical-align: top;
+}
+
+.black-bg {
+	background: #000;
+}
+
+.middle-part {
+	position: relative;
+	z-index: 9;
+}
+
+.accordion-common .card {
+	border:none;
+	border-bottom: 1px solid rgba(142,72, 156,0.2);
+   background: none;
+    border-radius: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.accordion-common .card-header {
+	color: #fff;
+    border:none;
+    background: none;
+    border-radius: 0;
+    padding: 0;
+}
+
+.accordion-common .btn {
+	color: #fff;
+	padding: 0 0 0 33px;
+    font-weight: 700;
+    border: none;    
+    font-size: 18px;
+    white-space: inherit;
+    text-align: left;
+    width: 100%;
+}
+
+
+.accordion-common .btn:hover, .accordion-common .btn:focus {
+	text-decoration: none;
+	color: #8E489C;
+}
+
+.accordion-common .card-header .btn:after {
+    font-family: "FontAwesome";  
+    content: "\f056";
+    float: left;
+    font-size: 18px;
+    margin: 1px 12px 0 0;
+    position: absolute;
+    left: 0;
+    top: 10px;
+    font-weight: 400;
+}
+.accordion-common .card-header .btn.collapsed:after {
+    content: "\f0a4"; 
+}
+
+.accordion-common .card-body {
+	padding: 15px 0 7px 35px;
+}
+
+.sponsors-image {
+	max-width: 250px;
+}
+
+#myCarousel {
+	background: rgb(142,71,155);
+	background: linear-gradient(90deg, rgba(142,71,155,1) 0%, rgba(147,211,223,1) 100%);
+	border-radius: 15px;
+	padding: 60px 60px 60px;
+}
+
+#myCarousel .carousel-caption {
+	position: static;
+}
+
+#myCarousel .carousel-caption p {
+	font-size: 20px;
+	margin: 0;
+}
+
+#myCarousel img {
+	width: 80%;
+	margin-bottom: 30px;
+}
+
+.sidenav {
+	text-align: center;
+	height: 100%;
+	width: 0;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	background: rgba(0, 0, 0, 0.9);
+	overflow-x: hidden;
+	transition: 0.5s;
+	padding-top: 60px;
+}
+
+.sidenav p {
+	font-size: 35px;
+	color: #fff;
+}
+
+.sidenav a {
+	padding: 8px 8px 8px 32px;
+	text-decoration: none;
+	font-size: 25px;
+	color: #818181;
+	display: block;
+	transition: 0.3s;
+}
+
+.sidenav a:hover {
+	color: #f1f1f1;
+}
+
+
+.sidenav .closebtn {
+	position: absolute;
+	top: 0;
+	right: 25px;
+	font-size: 36px;
+	margin-left: 50px;
+}
+
+.sidenav p.all-starts {
+	color: #8F61A8;
+	background: linear-gradient(90deg, rgba(142,71,155,1) 0%, rgba(147,211,223,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/*.block-text p { 
+	text-align: justify;
+}*/
+
+.complete-text {
+	display: none;
+}
+
+.footer {
+	background-color: #000;
+	color: #fff;
+	padding: 5px 0;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	z-index: 999;
+}
+
+ul.list-item {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+ul.list-item li {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.footer p {
+	margin: 0;
+}
+
+.footer a {
+	color: #92BBD3;
+}
+
+video {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	transform: translateX(-50%) translateY(-50%);
+	z-index: 0;
+}
+
+
+
+.overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 100%;
+	width: 100%;
+	background: rgb(142,71,155);
+	background: linear-gradient(0deg, rgba(142,71,155,1) 0%, rgba(147,211,223,1) 100%);
+	opacity: .7;
+	z-index: 1;
+}
+
+.overlay:before {
+	content: "";
+	background: url(../image/round-design.svg) no-repeat center center;
+	width: 100%;
+    height: 100%;
+    position: fixed;
+    background-size: 30% auto;
+    opacity: 0.4;
+}
+
+.business-inner-banner {
+	padding: 50px 0;
+	background: url(../image/business-banner.jpg) no-repeat center center;
+}
+
+.business-inner-banner:before {
+	content: "";
+	background: url(../image/round-design.svg) no-repeat right center;
+	width: 100%;
+    height: 100%;
+    background-size: 30% auto;
+    opacity: 0.4;
+    position: absolute;
+    top: 0;
+}
+
+.btn-primary {
+	background: #93D1DE;
+	border-color: #93D1DE;
+	text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.btn-primary:hover {
+	background: #9081B7;
+	border-color: #9081B7;
+}
+
+.packages-price {
+	font-weight: 700;
+	letter-spacing: -2px;
+}
+
+.packages-box .card {
+    box-shadow: 0 3px 6px #dad8d8;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.packages-box .card-header {
+    font-size: 20px;
+    background: #9081B7;
+    color: #fff;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.packages-price sup {
+	font-size: 28px;
+}
+
+.packages-price span {
+	font-size: 28px;
+}
+
+.packages-price span.pkg-price {
+	font-size: 46px;
+}
+
+.list-style {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+.list-style li {
+	position: relative;
+	padding-left: 25px;
+	margin-bottom: 5px;
+}
+
+.list-style li:after {
+    content: "\f0a4";
+    font-family: "FontAwesome";
+    float: left;
+    font-size: 18px;
+    margin: 1px 12px 0 0;
+    position: absolute;
+    left: 0;
+    top: 0px;
+    font-weight: 400;
+}
+
+.packages-box .card-footer {
+	background: none;
+	padding: 0 1.25rem 1.25rem;
+	border:none;
+}
+
+.icon {
+	width: 85px;
+	height: 85px;
+	line-height: 85px;
+	text-align: center;
+	font-size: 34px;
+	background: #9081B7;
+	color: #fff;
+}
+
+.contact-form {
+	background: rgb(142,71,155);
+	background: linear-gradient(0deg, rgba(142,71,155,1) 0%, rgba(147,211,223,1) 100%);
+	padding: 20px;
+	border-radius: 5px;
+}
+
+
+@media screen and (max-width: 767px) {
+
+	body {
+		padding-bottom: 80px;
+	}
+	#myCarousel {
+		padding-bottom: 30px;
+	}
+	.navbar {
+		padding-top: 10px;
+	}
+	.business-inner-banner {
+    	padding: 30px 0;
+	}
+	.business-inner-banner:before {
+	    background-size: 70% auto;
+	}
+
+}
+
+
+

@@ -1,0 +1,67 @@
+ERROR - 2021-05-12 04:49:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 04:50:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-12 07:08:46 --> 404 Page Not Found: Env/index
+ERROR - 2021-05-12 11:20:15 --> 404 Page Not Found: Th1s_1s_a_4o4html/index
+ERROR - 2021-05-12 11:47:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-12 11:57:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-12 12:20:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-12 12:20:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-12 13:18:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-12 16:08:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-12 16:11:58 --> 404 Page Not Found: Apple-touch-icon-152x152-precomposedpng/index
+ERROR - 2021-05-12 16:11:58 --> 404 Page Not Found: Apple-touch-icon-152x152png/index
+ERROR - 2021-05-12 16:11:58 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-05-12 16:11:58 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-05-12 16:29:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 7 - Invalid query: SELECT *
+FROM `hoo_memory_media`
+WHERE `is_delete` = '0'
+AND `user_id` = '1'
+AND `media_type` = '0'
+ORDER BY `id` DESC
+ LIMIT -5, 5
+ERROR - 2021-05-12 16:31:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 6 - Invalid query: SELECT *
+FROM `hoo_memory_media`
+WHERE `is_delete` = '0'
+AND `media_type` = '0'
+ORDER BY `id` DESC
+ LIMIT -5, 5
+ERROR - 2021-05-12 16:31:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 16:31:58 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 6 - Invalid query: SELECT *
+FROM `hoo_memory_media`
+WHERE `is_delete` = '0'
+AND `media_type` = '0'
+ORDER BY `id` DESC
+ LIMIT -5, 5
+ERROR - 2021-05-12 16:32:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 16:32:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 16:32:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 16:32:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 16:33:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 16:33:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 16:33:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 16:33:32 --> Query error: Table 'outoutap_hoo.hoo_friend_request' doesn't exist - Invalid query: INSERT INTO `hoo_friend_request` (`from_user_id`, `to_user_id`, `status`, `send_request_date_time`, `created_at`) VALUES ('5', '7', 0, '2021-05-12 04:33:32', '2021-05-12 04:33:32')
+ERROR - 2021-05-12 17:13:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 17:58:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-12 19:06:59 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2021-05-12 19:07:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 19:07:00 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2021-05-12 19:11:00 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-12 19:11:00 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-12 19:11:00 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-12 19:11:00 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-12 19:11:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 19:12:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 19:14:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-12 19:14:44 --> Query error: Column 'account_type' cannot be null - Invalid query: INSERT INTO `hoo_users` (`first_name`, `last_name`, `dob`, `email`, `gender`, `phone_number`, `username`, `password`, `latitude`, `longitude`, `city`, `profile_image`, `account_type`, `terms_and_conditions`, `created_at`) VALUES ('Rutul', 'Parikh', '1990-03-16', 'rutulp.90@gmail.com', '1', '815-393-1506', 'rutulp', '$2y$10$mz2O330wb9pKEW8PHKfqU.ZkJ.R1Vd4WJkLgtsLv4T4PmfpUUwaPO', '29.94', '-95.35', 'Houston', 'https://outout.app/uploads/users/609c1b14ee05c.jpg', NULL, '1', '2021-05-12 07:14:44')
+ERROR - 2021-05-12 19:41:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 19:41:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 19:58:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 19:58:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-12 20:01:20 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-12 20:01:20 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-12 20:01:20 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-12 20:01:20 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-12 22:43:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-12 22:43:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-12 22:43:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-12 22:43:19 --> 404 Page Not Found: Wp-loginphp/index

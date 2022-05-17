@@ -1,0 +1,27 @@
+ERROR - 2021-05-15 01:14:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-15 03:53:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-15 10:06:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-15 11:31:57 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-05-15 11:31:57 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-05-15 11:31:57 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-05-15 11:31:58 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-05-15 11:31:58 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-05-15 11:31:58 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-05-15 11:31:58 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-05-15 12:42:02 --> 404 Page Not Found: Th1s_1s_a_4o4html/index
+ERROR - 2021-05-15 14:01:43 --> Query error: Unknown column 't4.is_delete' in 'where clause' - Invalid query: SELECT *
+FROM `hoo_users`
+WHERE `t4`.`is_delete` = '0'
+ERROR - 2021-05-15 14:44:14 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-05-15 14:44:14 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-05-15 14:44:14 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-05-15 14:44:14 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-05-15 14:44:14 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-05-15 14:44:14 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-05-15 14:44:14 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-05-15 16:08:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-15 18:16:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-15 19:06:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-15 19:06:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-15 19:06:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-15 20:36:17 --> 404 Page Not Found: Faviconico/index

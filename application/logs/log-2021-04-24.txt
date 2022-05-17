@@ -1,0 +1,4 @@
+ERROR - 2021-04-24 11:49:02 --> Query error: Column 'intUdId' cannot be null - Invalid query: INSERT INTO `hoo_devices` (`intUdId`, `deviceToken`, `deviceType`, `created_at`) VALUES (NULL, NULL, '1', '2021-04-24 11:49:01')
+ERROR - 2021-04-24 11:49:47 --> Query error: Column 'intUdId' cannot be null - Invalid query: INSERT INTO `hoo_devices` (`intUdId`, `deviceToken`, `deviceType`, `created_at`) VALUES (NULL, NULL, '1', '2021-04-24 11:49:47')
+ERROR - 2021-04-24 11:51:05 --> Query error: Column 'deviceToken' cannot be null - Invalid query: INSERT INTO `hoo_devices` (`intUdId`, `deviceToken`, `deviceType`, `created_at`) VALUES ('sadfsdfasdf', NULL, '1', '2021-04-24 11:51:05')
+ERROR - 2021-04-24 11:51:11 --> Query error: Column 'deviceToken' cannot be null - Invalid query: INSERT INTO `hoo_devices` (`intUdId`, `deviceToken`, `deviceType`, `created_at`) VALUES ('13215', NULL, '1', '2021-04-24 11:51:11')
